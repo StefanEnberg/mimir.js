@@ -1,0 +1,2 @@
+# mimir.js
+Coming soon
